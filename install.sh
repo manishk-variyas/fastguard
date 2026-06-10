@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="anomalyco/fastguard"
+REPO="manishk-variyas/fastguard"
 VERSION="${1:-latest}"
 
 print_banner() {

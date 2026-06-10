@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/anomalyco/fastguard"
+Homepage = "https://github.com/manishk-variyas/fastguard"
 
 [project.scripts]
 fastguard = "fastguard.cli:app"
